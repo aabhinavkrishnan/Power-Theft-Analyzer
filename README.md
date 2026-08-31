@@ -87,9 +87,3 @@ The website displays the measured electrical parameters and theft status in real
 - Refine detection thresholds using utility data
 - Extend the prototype to three-phase systems
 - Develop a mobile application
-
-## Project Report
-
-The complete project report is available here:
-
-[Project Report](Project%20Report.pdf)
